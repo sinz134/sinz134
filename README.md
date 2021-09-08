@@ -3,13 +3,13 @@
 	<img src = "https://media.giphy.com/media/WrtiSfFlpgqIRzVB7t/giphy.gif">
 	
 </p>
-
-<p align="center">
-	A very little cat :cat2: that wanders around Internet :earth_asia: discovering the allure in everything and making its own masterpieces :art:...	
-</p>
 <p align="center">
 	:sunflower: :sunflower: :sunflower:
 </p>
+<p align="center">
+	A very little cat :cat2: that wanders around Internet :earth_asia: discovering the allure in everything and making its own masterpieces :art:...	
+</p>
+
 
 <!-- INFORMATION-->
 <h2 align="center">  :paw_prints: Things About Me  :paw_prints:</h2>
