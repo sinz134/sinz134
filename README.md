@@ -3,24 +3,26 @@
 	<img src = "https://media.giphy.com/media/WrtiSfFlpgqIRzVB7t/giphy.gif">
 	
 </p>
+
+</br>
+
 <p align="center">
-	:sunflower: :sunflower: :sunflower:
-</p>
-<p align="center">
-	A very little cat :cat2: that wanders around Internet :earth_asia: discovering the allure in everything and making its own masterpieces :art:...	
+	A very little :cat2: that wanders around the :earth_asia: discovering the allure in everything and making its own masterpieces :art:...	
 </p>
 
-
+</br>
 <!-- INFORMATION-->
-<h2 align="center">  :paw_prints: Things About Me  :paw_prints:</h2>
-<p align="center">
-	:blue_book: My name is Nguyen and I'm studying Software Engineering in Ton Duc Thang University. 
-</p>
+<h2 align="center"> :sunflower: :sunflower: :sunflower:</h2>
+
+<h3 align="center">
+	NGUYEN TU NGUYEN
+</h3>
 <p align="center">
 	:mortar_board: My passion is to create beautiful and useful websites. :computer:  My goal is to become a good Frontend Developer. 
 </p>
 <p align="center">
-	:seedling: About techs and tools: 
+	<em> Techs & Tools </em>
+	</br>
 	<img src="https://img.shields.io/badge/-black?style=flat-square&logo=html5"/>
  	<img src="https://img.shields.io/badge/-black?style=flat-square&logo=css3&logoColor=1572B6"/>
   	<img src="https://img.shields.io/badge/-black?style=flat-square&logo=javascript"/> 
@@ -28,8 +30,12 @@
   	<img src="https://img.shields.io/badge/-black?style=flat-square&logo=git"/>
 	<img src="https://img.shields.io/badge/-black?style=flat-square&logo=atom&logoColor=brightgreen"/>
 </p>
+
+
+
 <p align="center" >
-	:mushroom: And my contact:
+	<em> Contact </em>
+	</br>
 	<a href="https://www.linkedin.com/in/nguyen-nguyen-411810158/">
 		<img src="https://img.shields.io/badge/-nguyen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyen-nguyen-411810158/">
 	</a>
@@ -38,7 +44,7 @@
 	</a>
 </p>
 <!-- GITHUB -->
-<h2 align="center"> :octocat: My GitHub :octocat: </h2>
+<h2 align="center"> :sunflower: :sunflower: :sunflower: </h2>
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=sinz134&show_icons=true&theme=github_dark&line_height=27" alt=Sinz />
